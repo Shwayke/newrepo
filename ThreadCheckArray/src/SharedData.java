@@ -11,6 +11,7 @@ public class SharedData
 		this.b = b;
 	}
 
+	//new comment
 	public boolean[] getWinArray() 
 	{
 		return winArray;
